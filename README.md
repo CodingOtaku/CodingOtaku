@@ -9,4 +9,4 @@ I find that sending patch files directly the developer (via e-mail or other mean
 
 You can find me at [codingotaku.com](https://codingotaku.com)
 
-[1] An example of my older commits being tagged to this new account (showing unmerged PR for reasosns) -> https://github.com/Halium/docs/pull/142
+[1] An example of my older commits being tagged to this new account (showing unmerged PR for reasons) -> https://github.com/Halium/docs/pull/142
