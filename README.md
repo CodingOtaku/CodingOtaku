@@ -1,6 +1,7 @@
 ### I Do not use GitHub!
 
-This profile exists because I used to have a GitHub account, and there were commits linked to this user name.
+This profile exists because I **used to have** a GitHub account which I deleted due to reasons that you can think of (M$).  
+There were commits linked to this username, and I don't want them to have a weird linking to my other profiles or be owned by someone else creating an account with this username.
 
 I will only use this profile to contribute to the repositories that cannot be found elsewhere, so the only repos you can see in my account (if you see any) are ‘GitHub forks’™ for contributing...
 
