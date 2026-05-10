@@ -6,7 +6,7 @@ There were commits linked to this username, and I don't want them to have a weir
 
 I will only use this profile to contribute to the  repositories that cannot be found elsewhere, so **the only repos you can  see in my account (if you see any) are ‘GitHub forks’™ for  contributing**…
 
-I find that sending patch files directly to the developer via e-mail avoids showing my contribution in my timeline but keeps it in the commit history, so that's what I will continue to do the developer does not accept patchs via email.
+I find that sending patch files directly to the developer via e-mail avoids showing my contribution in my timeline but keeps it in the commit history, so that's what I will continue to do unless the developer does not accept patchs via email.
 
 You can find me at [codingotaku.com](https://codingotaku.com)
 
